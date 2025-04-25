@@ -1,0 +1,54 @@
+{
+  "node": {
+    "40199658bf67214573dc004a565e7e2ea3d7a08399": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22H%3A%5C%5CVisual%20Studio%20Code%5C%5CHOME%5C%5Cnext-pizza%5C%5Capp%5C%5Cactions.ts%22%2C%5B%5B%2240199658bf67214573dc004a565e7e2ea3d7a08399%22%2C%22registerUser%22%5D%2C%5B%22406bdafae784ba8e17c2a27c4957e6e49d0e41e960%22%2C%22updateUserInfo%22%5D%2C%5B%2240a4dbc2428c692c39d6da017d909cb3b3a5dec77a%22%2C%22createOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(root)/@modal/[...catchAll]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22H%3A%5C%5CVisual%20Studio%20Code%5C%5CHOME%5C%5Cnext-pizza%5C%5Capp%5C%5Cactions.ts%22%2C%5B%5B%2240199658bf67214573dc004a565e7e2ea3d7a08399%22%2C%22registerUser%22%5D%2C%5B%22406bdafae784ba8e17c2a27c4957e6e49d0e41e960%22%2C%22updateUserInfo%22%5D%2C%5B%2240a4dbc2428c692c39d6da017d909cb3b3a5dec77a%22%2C%22createOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/@modal/[...catchAll]/page": "action-browser"
+      }
+    },
+    "406bdafae784ba8e17c2a27c4957e6e49d0e41e960": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22H%3A%5C%5CVisual%20Studio%20Code%5C%5CHOME%5C%5Cnext-pizza%5C%5Capp%5C%5Cactions.ts%22%2C%5B%5B%2240199658bf67214573dc004a565e7e2ea3d7a08399%22%2C%22registerUser%22%5D%2C%5B%22406bdafae784ba8e17c2a27c4957e6e49d0e41e960%22%2C%22updateUserInfo%22%5D%2C%5B%2240a4dbc2428c692c39d6da017d909cb3b3a5dec77a%22%2C%22createOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(root)/@modal/[...catchAll]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22H%3A%5C%5CVisual%20Studio%20Code%5C%5CHOME%5C%5Cnext-pizza%5C%5Capp%5C%5Cactions.ts%22%2C%5B%5B%2240199658bf67214573dc004a565e7e2ea3d7a08399%22%2C%22registerUser%22%5D%2C%5B%22406bdafae784ba8e17c2a27c4957e6e49d0e41e960%22%2C%22updateUserInfo%22%5D%2C%5B%2240a4dbc2428c692c39d6da017d909cb3b3a5dec77a%22%2C%22createOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/@modal/[...catchAll]/page": "action-browser"
+      }
+    },
+    "40a4dbc2428c692c39d6da017d909cb3b3a5dec77a": {
+      "workers": {
+        "app/(root)/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22H%3A%5C%5CVisual%20Studio%20Code%5C%5CHOME%5C%5Cnext-pizza%5C%5Capp%5C%5Cactions.ts%22%2C%5B%5B%2240199658bf67214573dc004a565e7e2ea3d7a08399%22%2C%22registerUser%22%5D%2C%5B%22406bdafae784ba8e17c2a27c4957e6e49d0e41e960%22%2C%22updateUserInfo%22%5D%2C%5B%2240a4dbc2428c692c39d6da017d909cb3b3a5dec77a%22%2C%22createOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/(root)/@modal/[...catchAll]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22H%3A%5C%5CVisual%20Studio%20Code%5C%5CHOME%5C%5Cnext-pizza%5C%5Capp%5C%5Cactions.ts%22%2C%5B%5B%2240199658bf67214573dc004a565e7e2ea3d7a08399%22%2C%22registerUser%22%5D%2C%5B%22406bdafae784ba8e17c2a27c4957e6e49d0e41e960%22%2C%22updateUserInfo%22%5D%2C%5B%2240a4dbc2428c692c39d6da017d909cb3b3a5dec77a%22%2C%22createOrder%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(root)/page": "action-browser",
+        "app/(root)/@modal/[...catchAll]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "GQG451kEl+rtTYxM9MMFkU6fAk1dJWjjiWGcHsbse+A="
+}
